@@ -1,0 +1,12 @@
+
+.nav-main{
+ padding-left: 40;
+ background-color:#F78B00 ;
+}
+
+.main-menu {
+  display: flex;
+  font-size: 18px;
+  width: 380px;
+  justify-content: space-between;
+}
