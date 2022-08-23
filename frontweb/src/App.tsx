@@ -1,12 +1,13 @@
+import Home from 'Pages/Home';
+import './App.css'
 
 
-import './App.css';
-import Navbar from './components/Navbar';
-
-function App() {
+const App = () => {
+  
   return (
-    <Navbar/>
-    
+  <>
+   <Home />
+  </>
   );
 }
 

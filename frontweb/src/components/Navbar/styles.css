@@ -1,12 +1,32 @@
 
+.main-nav{
+  min-height: 70px;
+  padding-left: 20px;
+}
+
+.text-nav , .text-nav:hover {
+  color:#00285F;
+}
 .nav-main{
  padding-left: 40;
  background-color:#F78B00 ;
 }
 
-.main-menu {
+.main-menu{
   display: flex;
   font-size: 18px;
-  width: 380px;
-  justify-content: space-between;
+  width: 200px;
+  justify-content: space-between; 
+
+}
+.main-menu a , a:hover {
+  color: #00285F;
+}
+
+.main-menu a.active{
+ color: #00285F;
+ font-weight: 700;
+}
+.navbar-toggler{
+  color:#00285F;
 }

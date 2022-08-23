@@ -1,0 +1,48 @@
+.home-container {
+  padding: 10px ;
+  text-align: center;
+}
+
+.home-card{
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  background-color: #00285F;
+  border-radius: 10px;
+  padding: 0px 21px 0px 21px ;
+}
+.home-content-container h2{
+  font-size: 22px ;
+  color: #fff;
+  font-weight:  700;
+  width: 257px;
+}
+.home-content-container p{
+  font-size: 15px ;
+  color: #fff;
+  font-weight:  400;
+ padding-top: 10px;
+}
+.home-image-container{
+  padding: 62px 28px 40px 28px;
+}
+.image-png{
+  width: 100%;
+}
+
+.catalago-container {
+  background-color: #EDEDED ;
+  padding: 28px 63px 35px 50px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.container-button-text h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #585858 ;
+  padding-top: 10px ;
+  width: 200px;
+  text-align: center;
+  
+}
+
