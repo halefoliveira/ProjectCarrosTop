@@ -1,11 +1,13 @@
 
 .main-nav{
-  min-height: 70px;
+  height: 70px;
   padding-left: 20px;
 }
 
 .text-nav , .text-nav:hover {
   color:#00285F;
+  font-size: 24px;
+  padding-left: 20px;
 }
 .nav-main{
  padding-left: 40;
@@ -29,4 +31,10 @@
 }
 .navbar-toggler{
   color:#00285F;
+}
+
+@media (min-width: 1280px) {
+.text-nav {
+    padding-left: 120px;
+}
 }

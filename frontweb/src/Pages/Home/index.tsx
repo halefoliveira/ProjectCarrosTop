@@ -21,9 +21,11 @@ const Home = () => {
           </div>
         </div>
         <div className="catalago-container">
-          <ButtonIcon />
-          <div className = "container-button-text">
-            <h1>Comece agora a navegar</h1>
+       
+            <ButtonIcon />
+            <div className="container-button-text">
+              <h1>Comece agora a navegar</h1>
+            
           </div>
         </div>
       </div>
