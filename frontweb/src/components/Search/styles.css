@@ -1,0 +1,51 @@
+.content-search{
+  padding: 20px 10px 0;
+}
+
+.catalago-content-container {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.catalogo-busca {
+  border-radius: 5px 0px 0px 5px;
+  padding: 22px 0px 24px 10px;
+  width: 100%;
+  margin: 0 0 0 20px;
+
+}
+.catalogo-busca h1 {
+  background: #ffffff;
+  font-size: 14px;
+  height: 40px;
+  font-weight: 400px;
+  border-radius: 5px 0px 0px 5px;
+  color:#A7A7A7 ;
+  padding: 12px 0 11px 24px;
+ 
+
+}
+
+.btn-busca{
+  padding: 22px 4px 25px 0px;
+  margin-right:20px;
+  
+}
+.btn-icon {
+  background-color: #00285f;
+  color: #ffffff;
+  border-radius: 0px 5px 5px 0px;
+  width: 77px;
+  height: 40px;
+  font-weight: 400px;
+  padding-top: 5px;
+  
+}
+
+@media (min-width: 1280px) {
+  .content-search{
+    padding: 30px 151px;
+    }
+
+}

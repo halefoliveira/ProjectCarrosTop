@@ -1,14 +1,10 @@
-import Home from 'Pages/Home';
+import Rotas from 'Routes'
 import './App.css'
 
-
 const App = () => {
-  
   return (
-  <>
-   <Home />
-  </>
-  );
+  <Rotas />
+  )
 }
 
-export default App;
+export default App
